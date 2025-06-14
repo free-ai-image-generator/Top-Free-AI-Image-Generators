@@ -1,4 +1,6 @@
-A curated list of AI image generation tools that are free to use, either fully or with generous free tiers. Includes tools that require no sign-up for instant access.
+# Top Free AI Image Generators
+
+## A curated list of AI image generation tools that are free to use, either fully or with generous free tiers. Includes tools that require no sign-up for instant access.
 
 | Tool                                                                               | Free Level                   | Sign-Up?         | Highlights                            |
 | ---------------------------------------------------------------------------------- | ---------------------------- | ---------------- | ------------------------------------- |
@@ -14,4 +16,4 @@ A curated list of AI image generation tools that are free to use, either fully o
 | [ZeroLimit AI](https://zerolimit.ai/)                                              | Full features                | ✅ Yes            | Images + editing on free tier         |
 | [OpenArt](https://openart.ai/)                                                     | Basic free                   | ✅ Yes            | Multiple models + ControlNet          |
 | [getimg.ai](https://getimg.ai/)                                                    | 100 credits/month            | ✅ Yes            | Generation + editing tools            |
-| [AI Image Generator](https://ai-image-generator.co)                                | Freemium (No sign-up needed) | ❌ No             | All-in-one models with GPT-4o, Flux, & more |
+| [Free AI Image Generator](https://ai-image-generator.co)                                | Freemium (No sign-up needed) | ❌ No             | All-in-one models with GPT-4o, Flux, & more |
